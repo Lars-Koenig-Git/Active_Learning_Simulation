@@ -1,0 +1,20 @@
+# Core data science packages
+pandas>=1.5.0
+numpy>=1.21.0
+
+# ASReview and extensions
+asreview==2.1.1
+asreview-dory
+
+# Additional ML and NLP packages
+scikit-learn>=1.0.0
+sentence-transformers>=2.0.0
+transformers>=4.20.0
+
+# PyTorch CPU build (default PyPI wheels are CPU)
+torch
+torchvision
+torchaudio
+
+# Plotting
+matlplotlib
