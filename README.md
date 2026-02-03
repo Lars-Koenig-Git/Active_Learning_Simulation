@@ -1,6 +1,6 @@
 # ASReview Simulation Pipeline
 
-This project runs a multi-stage ASReview workflow: clean and filter datasets, generate training variants, run simulations, apply stopping rules, and visualize aggregated performance metrics. All stages are scripted for reproducibility with both CPU and CUDA-ready environments.
+This project runs a multi-stage ASReview workflow: clean and filter datasets, generate training variants, run simulations, apply stopping rules, and visualize aggregated performance metrics. All stages are scripted for reproducibility.
 
 ## Folder Tree
 ```
